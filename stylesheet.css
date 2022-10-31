@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: midnightblue;
+}
+
+h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: royalblue;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h3:hover{
+    color: red;
+}
+
+#center{
+    text-align: center;
+}
+
+#homelink{
+    text-align: left;
+    color: slateblue;
+    text-decoration: underline;
+}
+
+#circleprofile{
+    border-radius: 50%;
+    float: left;
+}
+
+/*
+.imgfit{
+    FIT 5 IMAGES IN ONE LINE
+} 
+*/
+
