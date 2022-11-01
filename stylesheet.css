@@ -32,6 +32,7 @@ p{
 #circleprofile{
     border-radius: 50%;
     float: left;
+    padding-right: 10px;
 }
 
 .tableOfContents{
