@@ -18,16 +18,13 @@ p{
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 
-h3:hover{
-    color: red;
-}
 
 #center{
     text-align: center;
 }
 
 #homelink{
-    text-align: left;
+    text-align: right;
     color: slateblue;
     text-decoration: underline;
 }
@@ -37,8 +34,20 @@ h3:hover{
     float: left;
 }
 
+.tableOfContents{
+    text-align: center;
+    color: blueviolet;
+}
+
 .imgfit{
-    width: 100px;
-    height: 100px;
+    width: 19%;
+    height: 200px;
+    border: 5px dashed dodgerblue;
 } 
 
+.mainpfp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
